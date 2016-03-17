@@ -2,7 +2,7 @@
   "name": "bartfeenstra/dependency-retriever-symfony-bridge",
   "license": "MIT",
   "require": {
-    "bartfeenstra/dependency-retriever": ">=0.3.2 <0.4.0",
+    "bartfeenstra/dependency-retriever": ">=0.3.2 <0.5.0",
     "symfony/dependency-injection": "~2.8 || ~3.0"
   },
   "require-dev": {
